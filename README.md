@@ -1,4 +1,3 @@
-# HR-Analytics-Dashboard
 # [HR Analytics Dashboard using Power BI 🔗](https://drive.google.com/file/d/1h30yQ-tukzdef7TLYNqnkKJKS_5BZZmr/view?usp=sharing)
 
 ## Objective
